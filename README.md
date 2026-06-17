@@ -15,6 +15,7 @@ I build end-to-end AI products across healthcare, computer vision, retrieval sys
 
 | Project | What it shows |
 |---|---|
+| [thesis](https://github.com/haiderrmasood99/thesis) | M.S. thesis workspace for CYCLES-based crop-management reinforcement learning, reporting, and dashboard artifacts. |
 | [not-loom](https://github.com/haiderrmasood99/not-loom) | Local-first screen, mic, and webcam recording with a React/Vite frontend and optional Flask native recorder. |
 | [LifeMap](https://github.com/haiderrmasood99/lifemap) | A React app that maps personal trajectory using W6H questioning and Hype Cycle-style analysis. |
 | [production-rag-toolkit](https://github.com/haiderrmasood99/production-rag-toolkit) | RAG building blocks: extraction, hybrid retrieval, query expansion, reranking, and eval gates. |
