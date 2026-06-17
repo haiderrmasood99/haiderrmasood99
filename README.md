@@ -1,44 +1,45 @@
-# 💫 About Me:
-Haider Masood – AI Engineer & Researcher with a passion for harnessing artificial intelligence to solve real-world problems. I specialize in deep learning and have led AI projects in healthcare, computer vision, and NLP. Currently, I’m pursuing an M.S. in Artificial Intelligence at NUST and serving as Lead AI Engineer at Entropic. My mission is to sculpt intelligent solutions that improve lives – from developing a therapy chatbot supporting 10,000+ patients to deploying a cloud-based malaria detection system capable of processing 30k tests/day. I’m also an avid researcher (published in IEEE) and a Kaggle Expert, continually pushing the boundaries of what AI can do.
+# Haider Masood
 
+AI Engineer and researcher focused on practical, safety-aware AI systems.
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haidermasood99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haidermasood310@gmail.com) 
+I build end-to-end AI products across healthcare, computer vision, retrieval systems, and LLM infrastructure. My work usually sits at the point where models have to survive real product constraints: privacy, evaluation, cost, review workflows, deployment, and maintainability.
 
-# 🔨 Projects & Highlights
+## Current Focus
 
-*   **Malaria Detection System** – I built a deep learning pipeline that detects malaria parasites from blood smear images. This project is deployed on AWS and can handle **30k+ tests per day**, helping to speed up diagnoses and reduce costs in healthcare. _(Includes a custom dataset of microscope images.)_
-    
-*   **OsteoArthritis Analyzer** – A Flutter-based mobile application that assesses knee X-rays for osteoarthritis severity. It uses a trained EfficientNet model to grade the X-rays and even suggests exercise plans for patients. This project won **Best Project Award** in 2022 and was published as a research paper, highlighting its innovation in digital health.
-    
-*   **Graph Networks in C++** – An academic project where I implemented advanced graph algorithms and data structures in C++. This experience strengthened my algorithmic thinking and showcases my versatility in using different programming languages and paradigms.
-    
+- Production LLM systems: RAG, routing, evals, memory, safety layers, and model cost control.
+- Healthcare AI: medical imaging, clinical safety patterns, explainability, and auditability.
+- Applied research: translating prototypes into workflows that can be tested, reviewed, and improved.
+- Developer tooling: small starter kits that make serious AI engineering patterns easier to study.
 
-# 🏆 Achievements & Publications
+## Featured Projects
 
-*   **AI Research:** Co-authored a publication _“Osteo-Doc: KL-grading of Osteoarthritis using Deep Learning”_ presented at ICoDT2 2022 (IEEE). It was recognized with the **Best Paper Award**, underscoring the impact of our work in medical AI.
-    
-*   **Innovation Awards:** Winner of the **Startup World Cup 2022 (Pakistan)** and Finalist in **FICS 2022** for developing innovative AI solutions in healthcare. These honors reflect my commitment to applying AI in impactful ways.
-    
-*   **Kaggle Contributions:** Achieved **Kaggle Expert** status. I’ve shared multiple notebooks and one of my datasets (on tennis matches) earned a **Bronze medal**. Engaging with the Kaggle community helps me learn and give back by open-sourcing data and solutions.
+| Project | What it shows |
+|---|---|
+| [not-loom](https://github.com/haiderrmasood99/not-loom) | Local-first screen, mic, and webcam recording with a React/Vite frontend and optional Flask native recorder. |
+| [LifeMap](https://github.com/haiderrmasood99/lifemap) | A React app that maps personal trajectory using W6H questioning and Hype Cycle-style analysis. |
+| [production-rag-toolkit](https://github.com/haiderrmasood99/production-rag-toolkit) | RAG building blocks: extraction, hybrid retrieval, query expansion, reranking, and eval gates. |
+| [llm-gateway-starter](https://github.com/haiderrmasood99/llm-gateway-starter) | FastAPI gateway pattern for routing, rate limits, caching, fallback, and cost caps. |
+| [healthcare-ai-safety-patterns](https://github.com/haiderrmasood99/healthcare-ai-safety-patterns) | Clinical AI safety pipeline with risk classification, output validation, and redacted audit logging. |
+| [medical-image-ai-starter](https://github.com/haiderrmasood99/medical-image-ai-starter) | Medical imaging starter kit with preprocessing, Grad-CAM, EfficientNet fine-tuning, and U-Net utilities. |
+| [fintech-ai-compliance-kit](https://github.com/haiderrmasood99/fintech-ai-compliance-kit) | Compliance-aware AI patterns for model cards, audit trails, explanations, fraud, and KYC demos. |
+| [token-economics-calculator](https://github.com/haiderrmasood99/token-economics-calculator) | Python and spreadsheet tools for estimating LLM feature cost, margin, caching, and price-shock scenarios. |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haiderrmasood99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haiderrmasood99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderrmasood99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Background
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haiderrmasood99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- M.S. Artificial Intelligence, NUST.
+- AI engineering experience across healthcare, NLP, computer vision, and product systems.
+- Published research in medical AI, including osteoarthritis grading with deep learning.
+- Kaggle Expert with experience building datasets, notebooks, and applied ML workflows.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tooling
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=haiderrmasood99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Python, PyTorch, TensorFlow, FastAPI, React, TypeScript, Vite, Docker, PostgreSQL, MongoDB, AWS, Azure, GCP, OpenAI APIs, retrieval systems, evaluation workflows, and medical image processing.
+
+## Contact
+
+- LinkedIn: [haidermasood99](https://linkedin.com/in/haidermasood99)
+- Email: [haidermasood310@gmail.com](mailto:haidermasood310@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haiderrmasood99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I keep this profile focused on projects that demonstrate shipped engineering judgment rather than just experiments. Older coursework, forks, and raw data repos are being cleaned up or archived.
